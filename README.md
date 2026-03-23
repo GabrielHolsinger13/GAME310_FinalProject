@@ -22,4 +22,5 @@ Enemies in both paths
 3 is big door leading to a boss and needs dash.
 Enemies are more difficult (larger, more damage)
 - Boss fight
+
 Central platform with pits around the edges or platforms that can only be reached by climbing
