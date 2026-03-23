@@ -17,9 +17,9 @@ Enemies on bridge to castle
 One of them needs climbing gear
 Enemies in both paths
 - 3 more paths
-1 needs climbing tools to activate a lever
-2 has a dash
-3 is big door leading to a boss. Needs dash.
+1 needs climbing tools to activate a lever.
+2 has a dash.
+3 is big door leading to a boss and needs dash.
 Enemies are more difficult (larger, more damage)
 - Boss fight
 Central platform with pits around the edges or platforms that can only be reached by climbing
